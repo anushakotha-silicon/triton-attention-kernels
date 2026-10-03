@@ -1,0 +1,4 @@
+torch>=2.4
+triton>=3.0
+numpy
+pytest>=7.0
